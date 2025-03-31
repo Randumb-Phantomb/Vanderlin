@@ -19,7 +19,7 @@
 	Aasimar roaming alone on Psydonia often are those abandoned after serving their purpose. \
 	This species is often revered due to their celestial origin, \
 	but face great solitude as not many of their kind exist. \
-	Many an aasimar will detest the reverance in which they are greeted with, \
+	Many an aasimar will detest the reverence in which they are greeted with, \
 	for their greatest failure or unuse that lead to their discarding is not subject for celebration. \
 	\n\n\
 	An aasimar may be crafted with any number of materials. \
