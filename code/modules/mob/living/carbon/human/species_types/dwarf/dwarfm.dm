@@ -22,7 +22,7 @@
 	They are revered craftsmen, sculptors, smiths, and miners. \
 	As an old and mostly out-of-date saying goes, \"If you want it done right, lose 2 feet and grow a beard.\" \
 	\n\n\
-	Despite their cultural praise, a long-standing fued remains between dwarves and elves \
+	Despite their cultural praise, a long-standing feud remains between dwarves and elves \
 	stemming from old industrial practices. Dwarves hold a strong alliance with humenkind."
 
 	skin_tone_wording = "Ore Attunement"
