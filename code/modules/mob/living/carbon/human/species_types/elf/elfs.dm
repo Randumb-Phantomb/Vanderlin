@@ -22,7 +22,7 @@
 	Many elves sought safety through mixing culture, \
 	positioning themselves under the watchful guard of their stronger humen counterparts. \
 	\n\n\
-	A longstanding fued remains between elves and dwarves. \
+	A longstanding feud remains between elves and dwarves. \
 	Elvenkind has yet to forgive the dwarves for their destruction of homeland \
 	and pillaging of natural resources within the former snow-elf territory. \n\
 	To elves, it was the greatest signifier of disrespect for those lost. "
