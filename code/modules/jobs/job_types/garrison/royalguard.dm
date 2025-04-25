@@ -37,7 +37,7 @@
 	var/prev_name = spawned.name
 	var/honorary = "Sir"
 	if(spawned.gender == FEMALE)
-		honorary = "Dame"
+		honorary = "Madam"
 	spawned.real_name = "[honorary] [prev_real_name]"
 	spawned.name = "[honorary] [prev_name]"
 
